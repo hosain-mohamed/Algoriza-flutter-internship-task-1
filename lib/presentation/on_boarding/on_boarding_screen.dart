@@ -6,7 +6,7 @@ import 'package:task_1/models/on_boarding_data.dart';
 import 'package:task_1/presentation/on_boarding/widgets/logo.dart';
 import 'package:task_1/presentation/on_boarding/widgets/on_boarding_element.dart';
 import 'package:task_1/presentation/on_boarding/widgets/skip_button.dart';
-import 'package:task_1/presentation/styles/colors.dart';
+import 'package:task_1/utils/styles/colors.dart';
 
 class OnBoardingScreen extends StatefulWidget {
   const OnBoardingScreen({Key? key}) : super(key: key);
@@ -107,3 +107,4 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
     );
   }
 }
+

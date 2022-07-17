@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:task_1/presentation/styles/colors.dart';
+
+import '../../../utils/styles/colors.dart';
 
 class Logo extends StatelessWidget {
   const Logo({
